@@ -8,11 +8,6 @@ If you have any feedback, idea or blame, please feel free to share with me.
 
 It would be good to me. Thank you!
 
-
-![shot1](images/play.png)
-
-![shot2](images/play2.png)
-
 To play this game:
 
 ```
@@ -26,3 +21,9 @@ or
 $ cd (this-project)
 $ ./wordle_cli
 ```
+
+## Screenshots
+
+![shot1](images/play.png)
+
+![shot2](images/play2.png)
