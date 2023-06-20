@@ -1,4 +1,4 @@
-defmodule WordleCli.WordleConsoleApp do
+defmodule WordleCli.ConsoleApp do
   import WordleCli.Wordle, only: [init_wordle_game: 0]
 
   def main(_) do
