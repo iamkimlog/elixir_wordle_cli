@@ -12,7 +12,7 @@ To play this game:
 
 ```
 $ iex -S mix 
-iex(1)> WordleCli.WordleConsoleApp.main(0)
+iex(1)> WordleCli.ConsoleApp.main(0)
 ```
 
 or 
