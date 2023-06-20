@@ -1,4 +1,4 @@
-# WordleCli
+# Wordle game (CLI version)
 
 This is just a Wordle game of CLI version.
 
